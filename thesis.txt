@@ -5,3 +5,7 @@ This is the introduction chapter.
 #1 chapter
 
 This is the first chapter
+
+#2 chapter
+
+This is the second chapter
