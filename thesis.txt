@@ -9,3 +9,7 @@ This is the first chapter
 #2 chapter
 
 This is the second chapter
+
+#3 chapter
+
+This is the 3rd
